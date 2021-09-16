@@ -1,3 +1,3 @@
 jte {
-  pipeline_template = "infra_code"
+  pipeline_template = "infrastructure"
 }
